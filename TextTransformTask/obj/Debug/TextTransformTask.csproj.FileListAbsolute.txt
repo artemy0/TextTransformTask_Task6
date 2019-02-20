@@ -1,0 +1,7 @@
+D:\IBA\TextTransformTask\TextTransformTask\TextTransformTask\bin\Debug\TextTransformTask.exe.config
+D:\IBA\TextTransformTask\TextTransformTask\TextTransformTask\bin\Debug\TextTransformTask.exe
+D:\IBA\TextTransformTask\TextTransformTask\TextTransformTask\bin\Debug\TextTransformTask.pdb
+D:\IBA\TextTransformTask\TextTransformTask\TextTransformTask\obj\Debug\TextTransformTask.csprojAssemblyReference.cache
+D:\IBA\TextTransformTask\TextTransformTask\TextTransformTask\obj\Debug\TextTransformTask.csproj.CoreCompileInputs.cache
+D:\IBA\TextTransformTask\TextTransformTask\TextTransformTask\obj\Debug\TextTransformTask.exe
+D:\IBA\TextTransformTask\TextTransformTask\TextTransformTask\obj\Debug\TextTransformTask.pdb
